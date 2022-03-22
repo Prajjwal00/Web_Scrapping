@@ -9,3 +9,6 @@ using Pandas ,BeautifulSoup and response
 - Mostly, this is in the form of an Excel spreadsheet or a CSV file, but the data can also be saved in other formats, such as a JSON file.
 ## Beautiful Soup
 - Beautiful Soup is a Python library that is used for web scraping purposes to pull the data out of HTML and XML files. It creates a parse tree from page source code that can be used to extract data in a hierarchical and more readable manner.
+## Pandas
+- Pandas is an open source Python package that is most widely used for data science/data analysis and machine learning tasks. It is built on top of another package named Numpy, which provides support for multi-dimensional arrays. As one of the most popular data wrangling packages, Pandas works well with many other data science modules inside the Python ecosystem, and is typically included in every Python distribution, from those that come with your operating system to commercial vendor distributions like ActiveState’s ActivePython. 
+- Pandas makes it easy to scrape a table (<table> tag) on a web page. After obtaining it as a DataFrame, it is of course possible to do various processing and save it as an Excel file or csv file.
